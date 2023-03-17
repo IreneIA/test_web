@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Carles Dalmau</title>
+    <img src="carles dalmau/cabecera.jpg">
+    <link href="pagweb.css" rel="stylesheet">
+    <img class="perfil" src="carles dalmau/carles_dalmau.jpg">
+    <h1>Carles Dalmau</h1>
+    <h2> Holaaaaa! Bienvenidos a mi página web!</h2>
+    <h2><a href="https://www.instagram.com/carles_dalmau/">@carles_dalmau</a></h2>
+    <h2><a href="https://www.patreon.com/carlesdalmau">Patreon</a></h2></head><br>
+<a href="#MÁS RECIENTES">Más recientes</a>
+<a href="#Libro">Mi libro</a>
+<a href="#WEBTOONS">Mis Webtoons</a>
+<a href="#CAMISETAS">Camisetas</a>
+</head>
+<body>
+<pre id="MÁS RECIENTES">DIBUJOS MÁS RECIENTES</pre>   
+<div class="otro">
+    <table border="0" width="95%" height="auto"><tr>
+        <td><center> <img class="popular" src="carles dalmau/Sushi.jpg" title="Invasión comida japonesa" border="0"><b>Invasión comida japonesa 14€</b></center></td>
+        <td><center><img class="popular" src="carles dalmau/acuario.jpg" title="Tren de peces" border="0"><b>Tren de peces 14€</b></center></td>
+        <td><center><img class="popular" src="carles dalmau/brujita.jpg" title="Tren de brujas" border="0"><b>Tren de brujas 14€</b></center></td>
+        <td><center><img class="popular" src="carles dalmau/alien recreativos.jpg" title="Alien arcade" border="0"><b>Alien arcade 14€</b></center></td>
+        </tr></table></div>
+</div>
+<table border="0" width="95%" height="auto"><tr></tr>
+<div class="otro"></div>
+<pre id="Libro">MI LIBRO</pre>
+    <td><center><img class="Webtoon" src="carles dalmau/libro.jpg" title="Journey. The art of Carles Dalmau" border="0">
+    <h2><a href="https://www.buscalibre.us/libro-journey-the-art-of-carles-dalmau/9788467959154/p/54382463">Journey. The art of Carles Dalmau</a></h2></center><br></td>
+    </div><br>
+<h4>Descubre cómo desarrollé mis estilo y la historia detrás de mis dibujos más famosos.</h3>
+<table border="0" width="95%" height="auto"><tr></tr>
+<pre id="WEBTOONS">MIS WEBTOON</pre>    
+    <td><center><img class="Webtoon" src="carles dalmau/Lucyd Lucy.jpg" title="Lucid Lucy" border="0">
+    <h2><a href="https://www.webtoons.com/en/heartwarming/heart-anthology/lucid-lucy-ep-1-wholesome/viewer?title_no=2191&episode_no=20">Lucid Lucy</a></h2></center><br></td>
+    <td><center><img class="Webtoon" src="carles dalmau/calamari kebab.jpg" title="Calamari Kebab" border="0">
+        <h2><a href="https://www.webtoons.com/en/challenge/calamari-kebab/calamari-kebab/viewer?title_no=788838&episode_no=1">Calamari Kebab</a></h2></center><br></td>
+    </tr></table><br>
+<pre id="CAMISETAS">CAMISETAS</pre>
+    <div class="otro">
+        <table border="0" width="95%" height="auto"><tr>
+            <td><center> <img class="popular" src="carles dalmau/CAMISETA1.png" title="Lucid Lucy" border="0"><b>Camiseta "Lucid Lucy" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA2.png" title="Amor de siernas" border="0"><b>Camiseta "Amor de siernas" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA3.png" title="NO!" border="0"><b>Camiseta "NO!" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA4.png" title="Mei" border="0"><b>Camiseta "Mei" 24€</b></center></td>
+        </tr></table></div></br>
+            <div class="otro">
+         <table border="0" width="95%" height="auto"><tr>
+            <td><center> <img class="popular" src="carles dalmau/CAMISETA5.png" title="Solo soy un conejo" border="0"><b>Camiseta "Solo soy un conejo" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA6.png" title="And you neither" border="0"><b>Camiseta "And you neither" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA7.png" title="Todo va a salir bien" border="0"><b>Camiseta "Todo va a salir bien" 24€</b></center></td>
+            <td><center><img class="popular" src="carles dalmau/CAMISETA8.png" title="Me estoy ahogando" border="0"><b>Camiseta "Me estoy ahogando" 24€</b></center></td>
+        </tr></table></div></br>
+
+</body>
+</html>

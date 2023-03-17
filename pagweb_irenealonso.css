@@ -1,0 +1,47 @@
+
+*{
+    font-family:'Courier New', Courier, monospace;
+    background-color:cornsilk;
+  }
+.perfil{
+    margin: 20px 200px 5px 605px;
+    width: 300px;
+    border-radius:10px;
+}
+h1{
+    text-align:center;
+    color: darkred;
+}
+h2{
+    text-align:center;
+    color: brown;
+}
+h4{
+    text-align:center;
+    color: brown;
+}
+#WEBTOONS{
+    text-align: center;
+}
+.popular{
+    width: 300px;
+    padding: 15px 15px 60px 15px;
+    background-color:white;
+    border-radius: 1%;
+    margin: 20px;
+}
+.Webtoon{
+    width: 300px;
+    padding: 15px 15px 60px 15px;
+    background-color:white;
+    border-radius: 1%;
+    margin: 20px;
+}
+.libro{
+    text-align: center;
+}
+pre{
+    background-color: bisque;
+    padding: 5px 100px 5px 100px;
+    text-align: center;
+}
